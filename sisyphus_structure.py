@@ -4,6 +4,7 @@ import random
 def show(random_numbers):
     for number in random_numbers:
         print(number)
+        print("=======graphs========")
 
 def random_generator(limit):
     random_numbers=[]
