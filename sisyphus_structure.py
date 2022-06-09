@@ -3,6 +3,7 @@ import random
 
 def show(random_numbers):
     for number in random_numbers:
+        print(":)")
         print(number)
 
 def random_generator(limit):
